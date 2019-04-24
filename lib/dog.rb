@@ -1,8 +1,4 @@
 
-class Dog(name, breed)
-  @name = name
-  @breed = breed
+class Dog
+
 end
-
-
-
