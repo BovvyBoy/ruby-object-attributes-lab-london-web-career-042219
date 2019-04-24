@@ -1,4 +1,6 @@
 class person
   
-  def 
+  def person_name
+    
+  end
 
