@@ -1,7 +1,4 @@
-
-class person(name, job)
-  @name = name
-  @job = job
-end
-
+class person
+  
+  def 
 
